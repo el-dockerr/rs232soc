@@ -1,9 +1,14 @@
-# RS232 to Websockety
+# RS232 to Websocket
 
 This programm connects to Serial Port of a Linux/Windows machine
 and provides a websocket to receive and provide unaltered signals.
 
 The system will pipe all incoming signals from the client to the wheel and vice versa and is compatible to RS232 signals.
+
+このプログラムはLinux/Windowsマシンのシリアルポートに接続し
+に接続し、変更されていない信号を受信して提供するウェブソケットを提供します。
+
+このシステムは、クライアントからホイールへ、またはその逆へ、すべての受信信号をパイプし、RS232信号と互換性があります。
 
 
 # Build
@@ -19,7 +24,7 @@ This project makes use of c++ boost 1.86
 # Arguments
 
 
-Example:
+Example
 ```
 -log /var/log/rs232soc.log  
 -sp /dev/ttyS0
