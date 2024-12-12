@@ -1,0 +1,1 @@
+/usr/bin/c++ -rdynamic CMakeFiles/rs232soc.dir/src/InputParser.cpp.o CMakeFiles/rs232soc.dir/src/Listener.cpp.o CMakeFiles/rs232soc.dir/src/SerialPort.cpp.o CMakeFiles/rs232soc.dir/src/Session.cpp.o CMakeFiles/rs232soc.dir/src/rs232soc.cpp.o -o rs232soc  /usr/lib/libboost_filesystem.so.1.86.0 /usr/lib/libboost_system.so.1.86.0 /usr/lib/libboost_atomic.so.1.86.0 

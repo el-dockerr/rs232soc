@@ -1,0 +1,9 @@
+/home/skalski/local-dev/RS232Socket/CMakeFiles/rs232soc.dir
+/home/skalski/local-dev/RS232Socket/CMakeFiles/package.dir
+/home/skalski/local-dev/RS232Socket/CMakeFiles/package_source.dir
+/home/skalski/local-dev/RS232Socket/CMakeFiles/edit_cache.dir
+/home/skalski/local-dev/RS232Socket/CMakeFiles/rebuild_cache.dir
+/home/skalski/local-dev/RS232Socket/CMakeFiles/list_install_components.dir
+/home/skalski/local-dev/RS232Socket/CMakeFiles/install.dir
+/home/skalski/local-dev/RS232Socket/CMakeFiles/install/local.dir
+/home/skalski/local-dev/RS232Socket/CMakeFiles/install/strip.dir
