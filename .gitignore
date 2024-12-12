@@ -9,3 +9,5 @@ CPackSourceConfig.cmake
 Makefile
 /rs232soc
 rs232soc
+/CmakeFiles
+
